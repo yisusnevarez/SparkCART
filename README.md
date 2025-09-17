@@ -48,7 +48,9 @@ The dataset contains the following columns:
 ### 📊 Exploratory Data Analysis (EDA)
 - **PivotTables & Charts (Excel)**  
   - Aggregated sales by product category, country, payment method, and age group.  
-  - Analyzed monthly/quarterly trends using the derived `Month` and `Year` columns.  
+  - Analyzed monthly/quarterly trends using the derived `Month` and `Year` columns.
+    **ExcelPDF**
+    [View Excel workbook](e-commerce/PDF/ecommerce_transactionsv2.pdf)
 
 - **SQL Queries **  
   - Used SQL for grouping, filtering, and aggregation to validate Excel findings.  
@@ -59,7 +61,8 @@ The dataset contains the following columns:
     GROUP BY Product_Category
     ORDER BY Total_Revenue DESC;
     ```  
-
+- **Power Point**
+- [View PowerPoint Presentation](e-commerce/PDF/SparkCART_project_portfolio.pdf)
 ---
 
 ### 📊 Key Findings (Examples)
