@@ -23,7 +23,9 @@ Key stakeholder questions:
 
 ### 📂 Dataset Description
 The dataset contains the following columns:
-
+**Datasets**
+[raw data](e-commerce/DATA/ecommerce_transactions.csv)
+[Cleaned data](e-commerce/DATA/ecommerce_transactionsv2.xlsx)
 - **Transaction_ID** → Unique identifier for each transaction  
 - **User_name** → Customer’s anonymized name  
 - **Age** → Customer age in years  
@@ -64,7 +66,7 @@ The dataset contains the following columns:
     ORDER BY Total_Revenue DESC;
     ```  
 - **Power Point**
-- [View PowerPoint Presentation](e-commerce/PDF/SparkCART_project_portfolio.pdf)
+  [View PowerPoint Presentation](e-commerce/PDF/SparkCART_project_portfolio.pdf)
 ---
 
 ### 📊 Key Findings (Examples)
